@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>4ccf9852-75c4-4abc-993f-b2281dd69a16</TargetProject>
+    <FriendlyName>ImageOwlSender</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\u6011999\AppData\Local\Temp\Performance_20200518.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
