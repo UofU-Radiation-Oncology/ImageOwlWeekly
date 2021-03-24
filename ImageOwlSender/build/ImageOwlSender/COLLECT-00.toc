@@ -1,0 +1,61 @@
+([('ImageOwlSender.exe',
+   'C:\\Users\\u6011999\\source\\repos\\ImageOwlSender\\ImageOwlSender\\build\\ImageOwlSender\\ImageOwlSender.exe',
+   'EXECUTABLE'),
+  ('ImageOwlSender.exe.manifest',
+   'C:\\Users\\u6011999\\source\\repos\\ImageOwlSender\\ImageOwlSender\\build\\ImageOwlSender\\ImageOwlSender.exe.manifest',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python36.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\python36.dll',
+   'BINARY'),
+  ('select',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('base_library.zip',
+   'C:\\Users\\u6011999\\source\\repos\\ImageOwlSender\\ImageOwlSender\\build\\ImageOwlSender\\base_library.zip',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA')],)
