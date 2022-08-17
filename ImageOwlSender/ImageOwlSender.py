@@ -190,9 +190,10 @@ for row in excel.active.iter_rows(min_row=2, values_only=True):
     allmachines.append(Machine(row[0],str(row[1]),row[2],row[3],row[4],str(row[5])))
 
 for machine in allmachines:
-    #if machine.name == "V3":
+    #if machine.name == "V1":
     tqau.log(machine.name)
     b = tqau.mlc(machine)
+    #b = ""
     c = tqau.mpc(machine)
     comment = b+c
     #tqau.wl(machine)
